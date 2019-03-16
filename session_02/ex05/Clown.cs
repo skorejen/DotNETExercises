@@ -1,0 +1,8 @@
+namespace Funny
+{
+    class Clown
+    {
+
+    }
+}
+
